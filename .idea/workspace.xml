@@ -6,10 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a961ee0b-e96d-4611-9598-f73ba94d9716" name="Default" comment="更改测试">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="a961ee0b-e96d-4611-9598-f73ba94d9716" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcar/controller/Test.java" afterPath="$PROJECT_DIR$/src/main/java/cn/itcar/controller/Test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/itcar/controller/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -477,12 +475,20 @@
       <option name="presentableId" value="Default" />
       <updated>1538633547271</updated>
       <workItem from="1538633551466" duration="4799000" />
-      <workItem from="1538639068975" duration="493000" />
+      <workItem from="1538639068975" duration="517000" />
     </task>
+    <task id="LOCAL-00001" summary="更改测试">
+      <created>1538639569592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538639569592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5292000" />
+    <option name="totallyTimeSpent" value="5316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -622,7 +628,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/itcar/controller/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
