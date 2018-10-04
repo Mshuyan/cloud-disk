@@ -7,11 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a961ee0b-e96d-4611-9598-f73ba94d9716" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/admin/home.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/admin/index.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/icons.png" afterPath="$PROJECT_DIR$/src/main/webapp/img/icons.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login_error.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/register.html" afterPath="$PROJECT_DIR$/src/main/webapp/register.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/shoplogin.html" afterPath="$PROJECT_DIR$/src/main/webapp/shoplogin.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,11 +22,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="shoplogin.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shoplogin.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/shoplogin.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="87" column="17" lean-forward="true" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="323" column="33" lean-forward="false" selection-start-line="323" selection-start-column="33" selection-end-line="323" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -88,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/shoplogin.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/register.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/login_error.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/index.html" />
       </list>
     </option>
   </component>
@@ -194,7 +223,7 @@
               <item name="cloud-disk" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cloud-disk" type="b2602c69:ProjectViewProjectNode" />
@@ -202,6 +231,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,11 +258,11 @@
       <recent name="E:\JAVA_DLHM\SedanCar\NetworkDisk\src\main\webapp\WEB-INF\admain" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\cloud-disk\src\main\webapp\admin" />
       <recent name="D:\git\cloud-disk\src\main\webapp\img" />
       <recent name="D:\git\cloud-disk\src\main\webapp" />
       <recent name="D:\git\cloud-disk\src\main\webapp\WEB-INF" />
       <recent name="E:\JAVA_DLHM\SedanCar\NetworkDisk\src\main\webapp\WEB-INF" />
-      <recent name="E:\JAVA_DLHM\SedanCar\NetworkDisk\src\main\webapp\WEB-INF\pages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -489,7 +519,7 @@
       <workItem from="1538633551466" duration="4799000" />
       <workItem from="1538639068975" duration="533000" />
       <workItem from="1538641348015" duration="2107000" />
-      <workItem from="1538643534679" duration="937000" />
+      <workItem from="1538643534679" duration="2583000" />
     </task>
     <task id="LOCAL-00001" summary="更改测试">
       <created>1538639569592</created>
@@ -540,11 +570,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538643585649</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="添加注册页面1">
+      <created>1538644493180</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1538644493180</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8376000" />
+    <option name="totallyTimeSpent" value="10022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -593,7 +630,8 @@
     <MESSAGE value="更改测试" />
     <MESSAGE value="添加登录更改页面目录结构" />
     <MESSAGE value="添加注册页面" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加注册页面" />
+    <MESSAGE value="添加注册页面1" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加注册页面1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -695,14 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
@@ -741,6 +771,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="87" column="17" lean-forward="true" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="323" column="33" lean-forward="false" selection-start-line="323" selection-start-column="33" selection-end-line="323" selection-end-column="33" />
           <folding />
         </state>
       </provider>
