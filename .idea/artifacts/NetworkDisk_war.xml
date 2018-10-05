@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="NetworkDisk:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="NetworkDisk-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="NetworkDisk:war exploded" />
-    </root>
-  </artifact>
-</component>
